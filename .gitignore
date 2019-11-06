@@ -1,2 +1,5 @@
 # Ignore lit review papers
 1_lit_review/
+
+# Ignore data
+4_data/
